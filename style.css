@@ -1,0 +1,61 @@
+*{margin: 0;padding: 0;}
+
+h1 {
+    width: 400px;
+    margin: 0 auto;
+    height: 60px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 35px;
+    color: aqua;
+    font-size: 60px;
+}
+
+p{
+    width: 400px;
+    margin: 50px;
+    height: 80px;
+    text-align: center;
+    color: sandybrown;
+    background-color: black;
+    color: white;
+}
+
+body {
+    background-color: rgb(27, 90, 90);
+    color:white;
+    
+}
+
+.cloud{
+    position: absolute;
+}
+.re{
+    width: 200px;
+    height: 50px;
+    color: aquamarine;
+    background-color: black;
+    color: aliceblue;
+}
+.Contents{
+    text-align: center;
+}
+.imagess{
+    margin: auto;
+    width: 700px;
+    overflow: unset;
+    display: block;
+}
+
+.weather{
+    text-align: left;
+    width: 200px;
+    margin: auto;
+    overflow:unset;
+}
+.div{
+    text-align: center;
+    width: auto;
+    margin: auto;
+    
+}
